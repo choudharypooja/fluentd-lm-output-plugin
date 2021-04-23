@@ -16,7 +16,7 @@ Gem::Specification.new do |spec|
   spec.metadata["source_code_uri"]    = "https://github.com/choudharypooja/fluentd-lm-output-plugin"
   spec.metadata["documentation_uri"]  = "https://www.rubydoc.info/gems/lm-logs-fluentd"
 
-  spec.files         = [".gitignore", "Gemfile", "LICENSE", "README.md", "Rakefile", "fluent-plugin-lm-logs.gemspec", "lib/fluent/plugin/out_lm.rb"]
+  spec.files         = [".gitignore", "Gemfile", "Rakefile", "fluent-plugin-lm-logs.gemspec", "lib/fluent/plugin/out_lm.rb"]
   spec.require_paths = ["lib"]
   spec.required_ruby_version = '>= 2.0.0'
 
